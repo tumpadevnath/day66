@@ -1,0 +1,73 @@
+
+.mainsection{
+  background-color:white ;
+}
+
+/*-------------------------navbar--------*/
+#navbar{
+  background-color: #e6f4f8;
+ 
+  border-radius: 2px 2px 2px white;
+ 
+ 
+}
+#url{
+    margin-left: 150px;
+    color: white;
+   
+}
+.span1{
+    margin-left: 20px;
+    color: black;;
+}
+.span{
+    color:black;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+/*=========slider========*/
+
+
+
+/*===============About=============*/
+.section1{
+  width: 1500px;
+  height: 700px;
+  background-image: url(sea-3243357_1280.jpg);
+}
+.div{
+  margin-top: 70px;
+  margin-left: 30px;
+  color: black;
+  font-size: 20px;
+}
+/*=======Bandarban=============*/
+.section12{
+  width: 1500px;
+  height: 700px;
+  background-image: url(bandarban-resort.jpeg);
+}
+/*===========================*/
+#btn1{
+  width: 300px;
+  margin-left: 600px;
+  margin-top: 40px;
+  color: black;
+  text-decoration: none;
+}
+.section123{
+  width: 1500px;
+  height: 700px;
+  background-image: url(s011-1-.jpg);
+  color: white;
+}
+.section1234{
+  width: 1500px;
+  height: 700px;
+  background-image: url(Sajek/3ba0739d-f91a-4ef2-b082-ed6e62672aa1.jpeg);
+  color: white;
+}
+#card1{
+  margin-left: 20px;
+}
