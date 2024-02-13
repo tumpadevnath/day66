@@ -71,3 +71,13 @@
 #card1{
   margin-left: 20px;
 }
+.class{
+  margin-left: 30px;
+  margin-top: 20px;
+}
+.section202{
+    width: 600px; 
+}
+.section203{
+  display: flex;
+}
